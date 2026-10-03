@@ -1,4 +1,4 @@
-BTinternet Valid Email Checker
+# BTinternet Valid Email Checker
 
 ![BTinternet Valid Email Checker](https://raw.githubusercontent.com/alexrony21/btinternet-email-validator/refs/heads/main/btinternet-valid-email-checker.png)
 
